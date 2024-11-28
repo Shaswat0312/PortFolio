@@ -1,4 +1,4 @@
-/* Reset styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -12,14 +12,12 @@ body {
     line-height: 1.6;
 }
 
-/* Container for main content */
 .container {
     width: 85%;
     margin: 0 auto;
     max-width: 1200px;
 }
 
-/* Header */
 header {
     background: linear-gradient(135deg, #1a1a2e, #2a3d66); /* Dark Blue to Black Gradient */
     color: #fff;
@@ -46,7 +44,7 @@ header p {
     animation: fadeIn 2s ease-out;
 }
 
-/* About Section */
+
 .about {
     background: #000000; /* Dark Background */
     padding: 60px 0;
@@ -73,7 +71,7 @@ header p {
     font-weight: 500;
 }
 
-/* Skills Section */
+
 .skills {
     background: #000000; /* Dark Blue */
     padding: 60px 0;
@@ -113,7 +111,7 @@ header p {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
-/* Achievements Section */
+
 .achievements {
     background: #000000; /* Dark Background */
     padding: 60px 0;
@@ -172,7 +170,7 @@ header p {
     color: #fff;
 }
 
-/* Contact Section */
+
 .contact {
     background: #2a3d66; /* Dark Blue */
     color: white;
@@ -210,7 +208,7 @@ header p {
     color: #ff6a00;
 }
 
-/* Footer */
+
 footer {
     background-color: #121212; /* Darker Background */
     color: white;
@@ -221,7 +219,7 @@ footer {
     letter-spacing: 1px;
 }
 
-/* Animations */
+
 @keyframes fadeIn {
     0% {
         opacity: 0;
@@ -266,7 +264,7 @@ footer {
     }
 }
 
-/* Media Queries for responsiveness */
+
 @media (max-width: 768px) {
     header h1 {
         font-size: 2.5rem;
