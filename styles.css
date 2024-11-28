@@ -7,8 +7,8 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: #121212; /* Dark Background */
-    color: #000000; /* Light Text Color for contrast */
+    background: #121212;
+    color: #000000; 
     line-height: 1.6;
 }
 
@@ -19,8 +19,7 @@ body {
 }
 
 header {
-    background: linear-gradient(135deg, #1a1a2e, #2a3d66); /* Dark Blue to Black Gradient */
-    color: #fff;
+    background: linear-gradient(135deg, #1a1a2e, #2a3d66);
     padding: 100px 0;
     text-align: center;
     border-bottom: 5px solid #ff6a00;
@@ -46,7 +45,7 @@ header p {
 
 
 .about {
-    background: #000000; /* Dark Background */
+    background: #000000; 
     padding: 60px 0;
     text-align: center;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
@@ -64,7 +63,7 @@ header p {
 
 .about p {
     font-size: 1.125rem;
-    color: #bbb; /* Lighter color for better contrast */
+    color: #bbb;
     max-width: 900px;
     margin: 0 auto;
     line-height: 1.8;
@@ -73,7 +72,7 @@ header p {
 
 
 .skills {
-    background: #000000; /* Dark Blue */
+    background: #000000; 
     padding: 60px 0;
     text-align: center;
     color: #fff;
@@ -113,7 +112,7 @@ header p {
 
 
 .achievements {
-    background: #000000; /* Dark Background */
+    background: #000000; 
     padding: 60px 0;
     text-align: center;
     margin-bottom: 30px;
@@ -131,7 +130,7 @@ header p {
 }
 
 .achievement {
-    background-color: #000000; /* Dark Blue */
+    background-color: #000000; 
     border: 2px solid white;
     margin-bottom: 40px;
     padding: 25px;
@@ -172,7 +171,7 @@ header p {
 
 
 .contact {
-    background: #2a3d66; /* Dark Blue */
+    background: #2a3d66; 
     color: white;
     padding: 60px 0;
     text-align: center;
@@ -210,7 +209,7 @@ header p {
 
 
 footer {
-    background-color: #121212; /* Darker Background */
+    background-color: #121212;
     color: white;
     padding: 20px 0;
     text-align: center;
